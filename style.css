@@ -1,0 +1,21 @@
+.parte1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nivel{
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+}
+
+
