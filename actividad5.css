@@ -1,0 +1,24 @@
+.h1{
+height: auto;    
+display: grid;
+background-image: url(hero.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+grid-template-columns: 100px 100px 100px 100px;
+grid-template-rows: 100px 100px 100px;
+}
+
+.div{
+    display: grid;
+    justify-content: end ;
+
+}
+.h2{
+    display: grid;
+    justify-content: center;
+}
+.p{
+    display: grid;
+    text-align: center;
+}
